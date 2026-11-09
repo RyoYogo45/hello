@@ -1,2 +1,2 @@
 # hello
-GitHub の最初のリポジトリ
+I love 🏉
