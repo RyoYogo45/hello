@@ -1,3 +1,3 @@
 # hello
 I love 🏉
-I am making an app for English learner as a second language.
+I am developing an app for English learners.
